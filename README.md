@@ -44,20 +44,20 @@ So the idea arose to create a compact device that could be placed in an socket i
 
 
 
-![20230223094826](Images\20230223094826.jpg)
+![20230223094826](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230223094826.jpg)
 
-![20230227132036](Images\20230227132036.jpg)
+![20230227132036](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230227132036.jpg)
 
-![20230227132111](Images\20230227132111.jpg)
+![20230227132111](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230227132111.jpg)
 
-![20230227132407](Images\20230227132407.jpg)
+![20230227132407](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230227132407.jpg)
 
-![20230228104155](Images\20230228104155.jpg)
+![20230228104155](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230228104155.jpg)
 
-![20230228104212](Images\20230228104212.jpg)
+![20230228104212](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230228104212.jpg)
 
-![20230228104327](Images\20230228104327.jpg)
+![20230228104327](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230228104327.jpg)
 
-![20230228104841](Images\20230228104841.jpg)
+![20230228104841](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230228104841.jpg)
 
-![20230228104844](Images\20230228104844.jpg)
+![20230228104844](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Images/20230228104844.jpg)
