@@ -10,13 +10,13 @@ So the idea arose to create a compact device that could be placed in an socket i
 
 # Schema
 
-![Schema](I:\Esp32-Mini-PCB\Schema\Schema.jpg)
+![Schema](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Schema/Schema.jpg)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V2IUF3M)
 
 # 2D / 3D View
 
-| <img src="I:\Esp32-Mini-PCB\PCB\2d_View.svg" alt="2d_View" style="zoom:400%;" /> | ![3d_view](I:\Esp32-Mini-PCB\PCB\3d_view.jpg) |
+| <img src="https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/PCB/2d_View.svg" alt="2d_View" style="zoom:400%;" /> | ![3d_view](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/PCB/3d_view.jpg) |
 | ------------------------------------------------------------ | --------------------------------------------- |
 
 # BOM
