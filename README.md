@@ -8,6 +8,9 @@ In addition, compact devices based on ESP32 with Bluetooth support can be easily
 
 So the idea arose to create a compact device that could be placed in an socket in any corner of the house. The basic idea for the creation was projects: [Espresence](https://espresense.com/), and [nuki-hub](https://github.com/technyon/nuki_hub)
 
+A suitable case can be found here: https://github.com/Diddlik/eu-plug-diy-case
+![Case](https://github.com/Diddlik/eu-plug-diy-case/raw/main/images/render.png)
+
 # Schema
 
 ![Schema](https://github.com/Diddlik/Esp32-Mini-PCB/blob/main/Schema/Schema.jpg)
